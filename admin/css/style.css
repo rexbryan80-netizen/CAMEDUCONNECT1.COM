@@ -1,0 +1,20 @@
+/* Custom Website Styles */
+
+/* General page spacing */
+body {
+    background-color: #f9f9f9;
+}
+
+/* Card shadow style */
+.card {
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+/* Footer */
+footer {
+    background: #0d6efd;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
